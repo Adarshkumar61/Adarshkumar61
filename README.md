@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Robotics Mechanism<br><br>🌱 I’m currently learning Deep Reinforcement Learning<br><br>⚡Robots are future so let's dive and together and build something Great.
+🔭 I’m currently working on Robotics Mechanism<br><br>🌱 I’m currently learning Deep Reinforcement Learning<br><br>⚡Robots are future so let's dive  together and build something Great.
 
 
 ## 🌐 Socials:
