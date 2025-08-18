@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Autonomous Robots Mechanism<br><br>🌱 I’m currently learning CNN<br><br>🔮UpComing ROS2<br><br>⚡Robots are future so let's dive together and build something Great to make things more easier for Living Beings. 
+🔭 I’m currently working on Autonomous Robots Mechanism<br><br>🌱 I’m currently learning LSTM and GRU<br><br>🔮UpComing ROS2<br><br>⚡Robots are future so let's dive together and build something Great to make things more easier for Living Beings. 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Adarsh_singh245) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adarsh-kumar-94a859327/) 
