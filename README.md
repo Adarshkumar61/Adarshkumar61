@@ -16,6 +16,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=Adarshkumar61&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-contribs/?username=Adarshkumar61&theme=dark)
+
 ![](https://github-contributor-stats.vercel.app/api?username=Adarshkumar61&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
